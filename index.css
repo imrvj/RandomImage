@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #e9ebee;
+}
+.Header
+{
+  width: 1400px;
+  height: 40px;
+  
+  background-color:black;
+}
+.middle
+{
+  width: 500px;
+  height: 500px;
+ 
+  margin-left: 400px;
+}
+
+.button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+button:hover {
+  opacity: 0.8;
+}
+
+.container {
+  padding: 196px;
+}
+
+.imgcontainer {
+  text-align: center;
+  margin: 24px 0 12px 0;
+}
+
+img.avatar {
+  width: 40%;
+  border-radius: 50%;
+}
